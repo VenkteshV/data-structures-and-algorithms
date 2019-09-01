@@ -1,0 +1,5 @@
+
+	list[2<->3<->8<->null]
+list[2->3->8->null]
+list[c->f->null]
+list[f->null]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.com.venktesh.datastructures.linkedlist.DoublyLinkedlisttest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-01T18:57:34" hostname="venktesh-G7-7590" time="0.001">
+  <properties/>
+  <testcase name="testAdd" classname="tests.com.venktesh.datastructures.linkedlist.DoublyLinkedlisttest" time="0.001"/>
+  <testcase name="testEmptyList" classname="tests.com.venktesh.datastructures.linkedlist.DoublyLinkedlisttest" time="0.0"/>
+  <testcase name="testRemoveFirstOfEmpty" classname="tests.com.venktesh.datastructures.linkedlist.DoublyLinkedlisttest" time="0.0"/>
+  <testcase name="testRemoving" classname="tests.com.venktesh.datastructures.linkedlist.DoublyLinkedlisttest" time="0.0"/>
+  <system-out><![CDATA[list[2<->3<->8<->null]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

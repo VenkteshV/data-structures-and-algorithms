@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.com.venktesh.datastructures.stack.StackTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-09-01T18:57:34" hostname="venktesh-G7-7590" time="0.003">
+  <properties/>
+  <testcase name="testPopOnEmpty" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.002"/>
+  <testcase name="testExhaustively" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.0"/>
+  <testcase name="testEmptyStack" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.0"/>
+  <testcase name="testPop" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.0"/>
+  <testcase name="testPeek" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.0"/>
+  <testcase name="testPush" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.001"/>
+  <testcase name="testPeekOnEmpty" classname="tests.com.venktesh.datastructures.stack.StackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
